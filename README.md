@@ -1,2 +1,2 @@
 # Absenteeism
-Analysing Absenteeism datafram from UCI website
+Analysing Absenteeism dataframe from UCI website
